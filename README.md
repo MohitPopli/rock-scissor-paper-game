@@ -1,6 +1,11 @@
-# Getting Started with Create React App
+# Getting Started with Rock Scissor Paper Game
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+This project consist of very simple old game known as ROCK SCISSOR PAPER.
+I have used Redux and sagas with Typescrip to implement state handling mechanism with routing. It is a simple application that helps in learning how react works with redux and sagas.
+
+This app contains fully tested components in isolation using react testing library. I have used general naming convention as well basic architecture design to strucure project.
 
 ## Available Scripts
 
@@ -44,3 +49,4 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+# demo
